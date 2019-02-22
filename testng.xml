@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="testng.com.testpage.Testpage" />
+    </classes>
+  </test>
+  </suite>
